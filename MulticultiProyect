@@ -1,0 +1,50 @@
+##Proyecto “MultiCulti”
+
+
+Se pretende crear un ‘_espacio_’ (una página, un programa y/o aplicación) donde el usuario pueda consultar eventos culturales de diferentes maneras, el objetivo principal es que el usuario pueda crear una cuenta, brindando sus datos y  gustos, con los cuales se pretende realizar un calendario personal de eventos, existirá también la opción de que el usuario consulte qué eventos, que coincidan con sus gustos, se encuentran cerca de su ubicación en tiempo real, y podrá también compartir con una lista de contactos los eventos a los que asistirá, así como podrá compartir sus experiencias con la comunidad en general.
+
+######Pasos que seguirá “MultiCulti”
+
+1. El usuario creará una cuenta en la que se le pedirán sus datos personales:
+ * Nombre
+ * Edad
+ * Ubicaciones frecuentes.
+ * Estado civil
+
+2. El usuario deberá contestar una encuesta que llevará (aproximadamente) el siguiente proceso:
+     * ¿En qué áreas estás interesado?
+          * Música
+               * Conciertos
+               * Talleres
+               * etcétera
+         * Artes y Teatro
+             * Cine
+            * Teatro
+            * Museos
+            * Exposiciones
+            * Talleres
+            * etcétera
+        * Deportes
+            * Basketball
+            * Soccer
+            * Hockey 
+            * etcétera
+
+        * Eventos familiares
+            * Talleres
+            * Conciertos
+            * Eventos
+            * etcétera
+        * -Tecnología
+            * Conferencias
+            * Talleres
+            * etcétera
+
+3. Se le brindará un calendario de actividades al usuario, basado en sus respuesta. Se procurará que los eventos le sean accesibles, estén en fechas cercanas y cumplan con la mayor parte de sus criterios. 
+
+4.  El usuario podrá editar su calendario a placer, así como su perfil, en el cual podrá definir qué tan lejos de su ubicación está dispuesto a viajar, seleccionar sus artistas favoritos, así como el tiempo que requiere que dure su calendario (un calendario semanal, mensual, étc.).
+
+5. Cuando su calendario esté listo, tendrá la capacidad de compartirlo con sus amigos, así como sincronizarlo con otras aplicaciones o redes sociales (especialmente a los que cuenten con un calendario de actividades) y se le preguntará si desea recibir tanto notificaciones para los eventos a los que pretende asistir como instrucciones para llegar a éstos.
+
+
+Para brindar toda la información posible se pretende contar con bases de datos de distintos sitios y/o empresas, como calendarios de actividades de la **UNAM**, del **INBA**, del **INAH**, de **OCESA**, contar con el mapeo de Google, y la capacidad de leer las opiniones y reseñas del evento o del lugar, así como “_checkinear_” en **foursquare** o **facebook**.
